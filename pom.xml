@@ -8,6 +8,7 @@
   <version>1.0-SNAPSHOT</version>
   <name>shtechnology</name>
   <url>http://maven.apache.org</url>
+  <!-- demo data3 -->
   
   <properties>
     <!--
